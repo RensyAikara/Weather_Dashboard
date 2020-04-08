@@ -1,0 +1,45 @@
+body{
+    background-color: transparent;
+}
+p{
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+    color: white;
+    font-size: xx-large;
+}
+.navtext{
+    height: 80px;
+}
+.searchButton{
+    background-color: blue;
+}
+.contents{
+    padding: 10px;
+}
+.searchcity{
+    margin-top: 10px;
+}
+#cityname{
+    font-size: 30px;
+    margin-top: 20px;
+}
+.citydetails{
+    margin-top: 10px;
+    border: rgb(252, 249, 249);
+    border-style: groove;
+    border-width: .5px;
+    height: 260px;
+}
+.weatherdetails{
+    margin-left: 30px;
+}
+.boxone{
+    margin-left: 15px;
+    background-color: #66a8ea !important;
+    color: white;
+    font-size: small;
+}
+
+
+
